@@ -4,9 +4,12 @@ Proyecto de gestión Roots mochilas.
 En este proyecto se desarrolló un Sistema Web a medida para gestionar un emprendimiento que se dedica a la fabricación de mochilas.
 El mismo está desarrollado con diferentes tipos de tecnologías, entre ellas:
 
-  -MySql: En la carpeta '_sql'_ encontraremos archivos que se encargan de crear tablas, generar procesos de alta, baja y modificacion. Tambíen un query para insertar un usuario en la _tabla de usuarios_, esto va a permitir que un usuario pueda ingresar por primera vez al sistema con un rol de administrador.
+  -MySql: En la carpeta '_sql'_ encontraremos archivos que se encargan de crear tablas, generar procesos de alta, baja y modificacion. Tambíen un query para insertar             un usuario en la _tabla de usuarios_, esto va a permitir que un usuario pueda ingresar por primera vez al sistema con un rol de administrador.
+  
   -PHP: Todo parámetro de entrada y salida de la base de datos relacional pasa por variables PHP.
+  
   -JavasCript: Todas las funciones del sistema de gestión están desarrolladas en JS, se hace uso de Ajax para interacción con el servidor.
+  
   -HTML5 y CSS: Se hace uso de la misma para la maquetación y estilo del sistema.
 
 
